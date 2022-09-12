@@ -1,1 +1,2 @@
-demo
+demo of git 
+git example of push and pull commands
